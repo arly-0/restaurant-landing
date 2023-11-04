@@ -14,7 +14,7 @@ const Laurels = () => (
     </div>
 
     <div className='app__wrapper_img'>
-      <img src={images.laurels} alt="laurels" />
+      <img src={images.laurels} alt='laurels' />
     </div>
   </div>
 )
@@ -25,7 +25,7 @@ export default Laurels
 
 const AwardCard = ({ award }) => (
   <div className='app__laurels_awards-card'>
-    <img src={award.imgUrl} alt="award" />
+    <img src={award.imgUrl} alt='award' />
     <div className='app__laurels_awards-card_content'>
       <p className='p__cormorant' style={{ color: 'var(--color-golden)' }}>{award.title}</p>
       <p className='p__cormorant'>{award.subtitle}</p>
