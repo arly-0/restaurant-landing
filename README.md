@@ -1,4 +1,4 @@
-# Gericht Restaurant Landing Page
+# Gericht Restaurant Landing Page - [Check out Live](https://restaurant-landing-two.vercel.app/)
 
 Welcome to the Gericht Restaurant Landing Page project! This is a sample frontend portfolio project for a fictional restaurant named "Gericht." The purpose of this project is to showcase modern UI/UX design for a restaurant website.
 
@@ -22,6 +22,7 @@ Gericht is a contemporary restaurant with a focus on providing a delightful dini
 
 ## Technologies Used
 - React 18
+- [React icons](https://react-icons.github.io/react-icons/)
 - HTML5
 - CSS3
 - JavaScript
