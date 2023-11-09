@@ -25,7 +25,7 @@ const Gallery = () => {
           Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit.
           Volutpat Mattis Ipsum Turpis Elit Elit Scelerisque Egestas Mu.
         </p>
-        <button type='button' className='custom__button'>Learn More</button>
+        <button type='button' className='custom__button'>View More</button>
       </div>
 
       <div className='app__gallery-images'>
