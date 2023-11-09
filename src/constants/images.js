@@ -21,14 +21,17 @@ import sign from '../assets/sign.png'
 import quote from '../assets/quote.png'
 import gericht from '../assets/gericht.png'
 
-export default {
-  bg,
-  chef,
-  G,
+const gallery = [
   gallery01,
   gallery02,
   gallery03,
-  gallery04,
+  gallery04
+]
+
+export const images = {
+  bg,
+  chef,
+  G,
   knife,
   logo,
   menu,
@@ -44,4 +47,5 @@ export default {
   sign,
   quote,
   gericht,
+  gallery
 }
