@@ -13,13 +13,15 @@ const Header = () => (
         Mauris in est in nulla posuere facilisis.
         Duis semper semper enim, at consequat massa sollicitudin a.
       </p>
-      <button type='button' className='custom__button'>Explore Menu</button>
-    </div>
+      <a href='#menu'>
+        <button type='button' className='custom__button'>Explore Menu</button>
+      </a>
+    </div >
 
     <div className='app__wrapper_img'>
       <img src={images.welcome} alt='header img' />
     </div>
-  </div>
+  </div >
 )
 
 export default Header
