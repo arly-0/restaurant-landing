@@ -1,6 +1,6 @@
 import SubHeading from './SubHeading/SubHeading'
-import Newsletter from './Footer/Newsletter'
-import FooterOverlay from './Footer/FooterOverlay'
+import Newsletter from './Newsletter/Newsletter'
+import FooterOverlay from './FooterOverlay/FooterOverlay'
 import MenuItem from './Menuitem/MenuItem'
 import Navbar from './Navbar/Navbar'
 
