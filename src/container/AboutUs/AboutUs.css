@@ -11,6 +11,7 @@
     width: 391px;
     height: 415px;
     z-index: 0;
+    opacity: 0.1;
 }
 
 .app__aboutus-content {
